@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/23 21:12:28.000.750,=C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/08 17:07:49.000.135,=C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/11 14:47:22.000.926,=C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 13:42:13.000.028,=C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 14:10:28.000.738,=C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 14:31:25.000.299,C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Softwares\WK\source\uPrincipal.dfm</Transaction>
+    <Transaction>2022/02/04 14:31:25.000.299,C:\Users\TI\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Softwares\WK\source\uPrincipal.pas</Transaction>
+    <Transaction>2022/02/04 14:31:36.000.321,C:\Users\TI\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Softwares\WK\source\VendasWK.dproj</Transaction>
+    <Transaction>2022/02/04 14:32:04.000.608,=C:\Softwares\WK\source\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 14:37:31.000.155,C:\Softwares\WK\source\Unit1.dfm=C:\Softwares\WK\source\uDm.dfm</Transaction>
+    <Transaction>2022/02/04 14:37:31.000.155,C:\Softwares\WK\source\Unit1.pas=C:\Softwares\WK\source\uDm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
