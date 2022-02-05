@@ -5,12 +5,12 @@
 ```
 Candidato > Márcio Moreira Camilo
    E-mail > mmcamilo@gmail.com
- Telefone > (47)98867-7130
+ Telefone > (47) 98867-7130
      Data > 05/02/2022
 ```
 #### Recursos
     Ferramenta de Desenvolvimento------> RadStudio Delphi Versão 10.3 
-    Sistema Gerenciador Banco de Dados-> MySQL 8.0
+    Sistema Gerenciador Banco de Dados-> 8.0.21 - MySQL Community Server - GPL
     Nome do Banco de Dados-------------> VENDASWK 
     
 ### Estrutura de Pastas
